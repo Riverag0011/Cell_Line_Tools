@@ -2,7 +2,8 @@
 >
 Purpose: Allow to select cell lines with the highest and lowest coexpressions of 3 genes of interest.
 >
-**References:** \
+>
+**References:** 
 >
 DepMap Portal Datasets from Broad Institute (Free source)
 Current DepMap Release data, including CRISPR Screens, PRISM Drug Screens, Copy Number, Mutation, Expression, and Fusions DepMap, Broad (2024). DepMap 24Q4 Public. Figshare+. Dataset. https://doi.org/10.25452/figshare.plus.27993248.v1 \
